@@ -1,0 +1,10 @@
+C:\Users\skape\source\repos\ProyectoFinalDisor\ProyectoFinalDisor\obj\Debug\ProyectoFinalDisor.csprojAssemblyReference.cache
+C:\Users\skape\source\repos\ProyectoFinalDisor\ProyectoFinalDisor\obj\Debug\ProyectoFinalDisor.Properties.Resources.resources
+C:\Users\skape\source\repos\ProyectoFinalDisor\ProyectoFinalDisor\obj\Debug\ProyectoFinalDisor.csproj.GenerateResource.cache
+C:\Users\skape\source\repos\ProyectoFinalDisor\ProyectoFinalDisor\obj\Debug\ProyectoFinalDisor.csproj.CoreCompileInputs.cache
+C:\Users\skape\source\repos\ProyectoFinalDisor\ProyectoFinalDisor\bin\Debug\ProyectoFinalDisor.exe.config
+C:\Users\skape\source\repos\ProyectoFinalDisor\ProyectoFinalDisor\bin\Debug\ProyectoFinalDisor.exe
+C:\Users\skape\source\repos\ProyectoFinalDisor\ProyectoFinalDisor\bin\Debug\ProyectoFinalDisor.pdb
+C:\Users\skape\source\repos\ProyectoFinalDisor\ProyectoFinalDisor\obj\Debug\ProyectoFinalDisor.exe
+C:\Users\skape\source\repos\ProyectoFinalDisor\ProyectoFinalDisor\obj\Debug\ProyectoFinalDisor.pdb
+C:\Users\skape\source\repos\ProyectoFinalDisor\ProyectoFinalDisor\obj\Debug\ProyectoFinalDisor.Form1.resources
